@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+   
+}
+
+.container{
+    width: 500px;
+    margin: 20px auto;
+}
+.main-frame{
+    padding-bottom: 30px;
+}
+
+.order-status-block{
+    width: 100%;
+    margin:  10px auto;
+}
